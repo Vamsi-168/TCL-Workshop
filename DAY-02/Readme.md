@@ -1,6 +1,6 @@
-## DAY 2 : Variable Creation and Processing Constraints from CSV
+# DAY 2 : Variable Creation and Processing Constraints from CSV
 
-### SubTask 2 : Converting CSV to format[1] and SDC - Variable Creation
+## SubTask 2 : Converting CSV to format[1] and SDC - Variable Creation
 
 ### 2.1. Tasks involved in format conversion :
   -  Create Variables for the corresponding inputs provided in the excel sheet
