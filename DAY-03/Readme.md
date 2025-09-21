@@ -1,8 +1,8 @@
-## DAY 3: Processing Clock and Input Constraints
+# DAY 3: Processing Clock and Input Constraints
 
 ---
 
-### SubTask 2 - From CSV to format[1] and SDC - Processing clock constraints
+## SubTask 2 - From CSV to format[1] and SDC - Processing clock constraints
 
 ### Algorithm to identify the column number for clock latency constraints
 
